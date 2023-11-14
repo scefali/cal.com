@@ -140,5 +140,8 @@
   "syncpack": {
     "filter": "^(?!@calcom).*",
     "semverRange": ""
+  },
+  "volta": {
+    "node": "18.18.2"
   }
 }
